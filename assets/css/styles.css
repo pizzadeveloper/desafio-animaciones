@@ -20,6 +20,8 @@ a{
 
 .nav-icon{
     display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 ul{
@@ -94,7 +96,7 @@ img{
 }
 
 img:hover{
-    opacity: .3;
+    opacity: .6;
 }
 
 img:active{
